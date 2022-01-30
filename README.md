@@ -1,2 +1,2 @@
-# CS648-02-Assignment1
- CS648-02 Assignment 01
+
+This is the first assignment of the CS 648.02 which deals with the MERN stack development.
